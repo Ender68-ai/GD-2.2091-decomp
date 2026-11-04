@@ -1,0 +1,7 @@
+Geometry Dash 2.2091 Function Index
+
+Total functions: 16893
+Successful: 16890
+Failed: 3
+
+Input: C:\Users\PC\Documents\gddecomp.cpp

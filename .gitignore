@@ -1,0 +1,31 @@
+﻿# Ghidra projects
+*.gpr
+*.rep/
+*.lock
+
+# Raw decompilation exports
+*_raw.cpp
+*_raw.c
+*.bin
+*.exe
+*.dll
+
+# Generated analysis
+analysis/generated/
+analysis/cache/
+
+# Build artifacts
+build/
+out/
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
